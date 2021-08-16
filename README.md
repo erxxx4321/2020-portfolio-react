@@ -1,3 +1,35 @@
-![](https://img.shields.io/badge/JavaScript-724832?style=plastic&logo=javascript) ![](https://img.shields.io/badge/React-724832?style=plastic&logo=react) ![](https://img.shields.io/badge/Node.js-724832?style=plastic&logo=node.js)  ![](https://img.shields.io/badge/Github-724832?style=plastic&logo=github) ![](https://img.shields.io/badge/Git-724832?style=plastic&logo=git) 
-![](https://img.shields.io/badge/HTML-724832?style=plastic&logo=html5) ![](https://img.shields.io/badge/CSS-724832?style=plastic&logo=css3) ![](https://img.shields.io/badge/Sass-724832?style=plastic&logo=sass) ![](https://img.shields.io/badge/Styled-724832?style=plastic&logo=styled-components)
-![](https://img.shields.io/badge/Figma-724832?style=plastic&logo=figma) ![](https://img.shields.io/badge/Vscode-724832?style=plastic&logo=visual-studio-code) ![](https://img.shields.io/badge/Markdown-724832?style=plastic&logo=markdown)
+# Portfolio website built with ReactJS
+
+[![demo](demo.png)](https://erxxx4321.github.io/kaoriahata/)
+
+## Description
+
+---
+
+2020 Portfolio website built with ReactJS.
+
+## Project setup
+
+---
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run start
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
+
+### Deploy on github page
+
+```
+npm run deploy
+```
