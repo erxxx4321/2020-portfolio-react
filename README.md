@@ -1,16 +1,12 @@
 # Portfolio website built with ReactJS
 
-[![demo](demo.png)](https://erxxx4321.github.io/kaoriahata/)
+[![demo](demo.png)](https://erxxx4321.github.io/kaorihata/)
 
 ## Description
-
----
 
 2020 Portfolio website built with ReactJS.
 
 ## Project setup
-
----
 
 ```
 npm install
