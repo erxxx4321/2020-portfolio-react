@@ -1,6 +1,6 @@
-# Portfolio website built with ReactJS
+# 2020 Portfolio website built with ReactJS
 
-[![demo](demo.png)](https://erxxx4321.github.io/kaorihata/)
+[![demo](demo.png)](https://kaorihata.netlify.app/)
 
 ## Description
 
@@ -22,10 +22,4 @@ npm run start
 
 ```
 npm run build
-```
-
-### Deploy on github page
-
-```
-npm run deploy
 ```
